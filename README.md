@@ -49,3 +49,6 @@ The application is available on the port 80 of the host machine.
 phpMyAdmin is available on port 8080.
 
 Again, for the complete tutorial please head to the [original post](http://tech.osteel.me/posts/2017/01/15/how-to-use-docker-for-local-web-development-an-update.html "How to use Docker for local web development: an update").
+
+## use docker-compose on win7
+https://github.com/myzero1/docker-note/blob/master/docker-compose.md
